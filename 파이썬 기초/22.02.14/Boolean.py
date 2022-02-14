@@ -1,0 +1,22 @@
+#명제
+#대한민국의 수도는 서울이다 -(참인 명제)
+#2는 1보다 작다 -(거짓인 명제)
+#한국의 수도는 어디입니까? -(명제가 아님 / 질문)
+#김태희는 예쁘다 -(명제가 아님 / 확실하게 참 거짓 판단x)
+
+print(True)
+print(False)
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
+print(not True)
+print(not False)
+
+print("Hello"=="hello")
+print("Hello"=="Hello")
+print(2>1 and "Hello"=="Hello")
